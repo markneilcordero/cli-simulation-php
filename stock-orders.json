@@ -1,0 +1,16 @@
+{
+    "buyOrders": [
+        {
+            "orderId": "67c69f4cbf729",
+            "price": 102,
+            "quantity": 10
+        }
+    ],
+    "sellOrders": [
+        {
+            "orderId": "67c69f6341392",
+            "price": 10,
+            "quantity": 1
+        }
+    ]
+}
